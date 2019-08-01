@@ -1,0 +1,24 @@
+{
+  "name": "ipgpu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasuda0102/ipgpu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasuda0102/ipgpu/issues"
+  },
+  "homepage": "https://github.com/yasuda0102/ipgpu#readme",
+  "dependencies": {
+    "@types/webgl2": "0.0.5",
+    "eslint": "^6.1.0",
+    "typescript": "^3.5.3"
+  }
+}
